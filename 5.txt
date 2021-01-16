@@ -11,6 +11,6 @@ def call():
     print(f"welcome {name} ")
 call()
 
-In class we call method but outside the class we call function.
+In class we call method but outside the class we call function
 
 
