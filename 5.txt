@@ -13,4 +13,16 @@ call()
 
 In class we call method but outside the class we call function
 
+Global , Local  <---- Scope
 
+local scope is only inside the function
+global scope is access outside the function and also inside the function
+
+same variable assignment issue:
+In local of the scope there is no interference of global variable 
+local ko priority deta h 
+local me local chalta h
+global me ghlobal chalta h
+
+Return:
+jaha function call hota h waha hi print hota h 
