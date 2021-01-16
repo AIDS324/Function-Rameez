@@ -1,0 +1,16 @@
+Functions:
+if we want to do a same task multiple times then we use functions
+
+builtin functions:
+print(), uppercase etc
+
+user functions:
+we create this eg:
+def call():
+    name = input("tell me your name : ")
+    print(f"welcome {name} ")
+call()
+
+In class we call method but outside the class we call function
+
+
